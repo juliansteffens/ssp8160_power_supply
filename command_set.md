@@ -1,4 +1,6 @@
-# initialize_power_supply(port, baudrate=9600, timeout=1):
+#command set
+
+initialize_power_supply(port, baudrate=9600, timeout=1):
     """
     Initializes the connection to the SSP-8160 power supply.
 
