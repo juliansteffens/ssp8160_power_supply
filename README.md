@@ -5,4 +5,4 @@ This Python package allows you to control the SSP-8160 power supply (or similar 
 ## Installation
 
 ```bash
-pip install ssp8160_power_supply
+pip install [ssp8160_power_supply](https://github.com/juliansteffens/ssp8160_power_supply)
