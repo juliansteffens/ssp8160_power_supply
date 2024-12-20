@@ -1,4 +1,7 @@
 # Example usage:
+import time
+import ssp8160_power_supply
+
 if __name__ == "__main__":
     port = "COM5"  # Replace with the actual COM port of your SSP-8160 (get from Windows Device Manager)
 
